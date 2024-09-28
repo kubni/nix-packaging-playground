@@ -1,0 +1,9 @@
+device_name = "ITE Tech. Inc. ITE Device(8910) Keyboard"
+
+[[remap]]
+input = ["KEY_LEFTCTRL", "KEY_BACKSLASH"]
+output = ["KEY_BACKSLASH"]
+
+[[remap]]
+input = ["KEY_BACKSLASH"]
+output = ["KEY_ENTER"]
